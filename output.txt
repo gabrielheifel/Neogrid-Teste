@@ -1,0 +1,39 @@
+{
+  "title": "Tênis Adidas Coreracer Masculino - Preto+Branco",
+  "price": "R$ 199,99",
+  "description": "Se você é iniciante na corrida e está buscando um tênis adequado para o seu treino, o novo Adidas Corerace é o que você estava procurando. Com um cabedal confeccionado com material têxtil, a parte de cima do calçado conta também com tramas em mesh que garantem circulação de ar e ótima respirabilidade entre uma passada e outra. A entressola em EVA e o solado de borracha de alta qualidade garantem amortecimento leve e ótima tração. Com um design moderno, o Tênis Adidas Masculino é opção para o treino na esteira, na rua ou, até mesmo, para usar de forma casual. Aproveite a oportunidade e garanta já o seu. *Para um melhor ajuste nos pés, recomendamos a compra de um tamanho maior do que o seu usual. Forma pequena.",
+  "initialImage": "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_zoom1.jpg?ts=1665494053&ims=544x",
+  "carousel": [
+    "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_zoom1.jpg?ts=1665494053&ims=120x",
+    "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_zoom2.jpg?ts=1665494053&ims=120x",
+    "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_zoom3.jpg?ts=1665494053&ims=120x",
+    "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_zoom4.jpg?ts=1665494053&ims=120x",
+    "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_zoom5.jpg?ts=1665494053&ims=120x",
+    "https://static.netshoes.com.br/produtos/tenis-adidas-coreracer-masculino/05/NQQ-4635-205/NQQ-4635-205_zoom6.jpg?ts=1665494053&ims=120x"
+  ]
+}{
+  "title": "Camisa Internacional I 23/24 s/n° Torcedor Adidas Masculina - Vermelho",
+  "price": "R$ 349,99",
+  "description": "O começo da temporada pede por um novo manto. Complete seu fardamento na hora de torcer pelo Colorado com a Camisa Internacional I 23/24 s/n° Torcedor Adidas Masculina! Em tom predominantemente vermelho, a peça apresenta gola em V e listras nas mangas que trazem uma tonalidade mais forte. O composto tecnológico Aeroready controla a umidade e garante toque macio em contato com a pele. Compre já essa camisa do Inter 23/24 masculina!",
+  "initialImage": "https://static.netshoes.com.br/produtos/camisa-internacional-i-2324-sn-torcedor-adidas-masculina/16/FB8-4694-016/FB8-4694-016_zoom1.jpg?ts=1677227566&ims=544x",
+  "carousel": [
+    "https://static.netshoes.com.br/produtos/camisa-internacional-i-2324-sn-torcedor-adidas-masculina/16/FB8-4694-016/FB8-4694-016_zoom1.jpg?ts=1677227566&ims=120x",
+    "https://static.netshoes.com.br/produtos/camisa-internacional-i-2324-sn-torcedor-adidas-masculina/16/FB8-4694-016/FB8-4694-016_zoom2.jpg?ts=1677227566&ims=120x",
+    "https://static.netshoes.com.br/produtos/camisa-internacional-i-2324-sn-torcedor-adidas-masculina/16/FB8-4694-016/FB8-4694-016_zoom3.jpg?ts=1677227566&ims=120x",
+    "https://static.netshoes.com.br/produtos/camisa-internacional-i-2324-sn-torcedor-adidas-masculina/16/FB8-4694-016/FB8-4694-016_zoom4.jpg?ts=1677227566&ims=120x",
+    "https://static.netshoes.com.br/produtos/camisa-internacional-i-2324-sn-torcedor-adidas-masculina/16/FB8-4694-016/FB8-4694-016_zoom5.jpg?ts=1677227566&ims=120x"
+  ]
+}{
+  "title": "Mochila Impermeável Reforçada Trabalho Viagem Escolar - Preto",
+  "price": "R$ 109,90",
+  "description": "A Polo é uma marca inspirada no estilo de vida dos americanos, com influência nas mais variadas tendência de moda, porém navegando dentro do estilo esportivo e casual. Suas coleções são inspiradas nas tendências atuais e modernas, porém preservando a qualidade e pensando estrategicamente em todos os detalhes, unindo a combinação perfeita entre o clássico e o contemporâneo. O alto padrão e os detalhes de seus produtos farão a diferença entre os consumidores que exigem um custo benefícios sem abrir mão da elegância e estilo.",
+  "initialImage": "https://static.netshoes.com.br/produtos/mochila-impermeavel-reforcada-trabalho-viagem-escolar/06/8Z9-0046-006/8Z9-0046-006_zoom1.jpg?ts=1676048598&ims=544x",
+  "carousel": [
+    "https://static.netshoes.com.br/produtos/mochila-impermeavel-reforcada-trabalho-viagem-escolar/06/8Z9-0046-006/8Z9-0046-006_zoom1.jpg?ts=1676048598&ims=120x",
+    "https://static.netshoes.com.br/produtos/mochila-impermeavel-reforcada-trabalho-viagem-escolar/06/8Z9-0046-006/8Z9-0046-006_zoom2.jpg?ts=1676048598&ims=120x",
+    "https://static.netshoes.com.br/produtos/mochila-impermeavel-reforcada-trabalho-viagem-escolar/06/8Z9-0046-006/8Z9-0046-006_zoom3.jpg?ts=1676048598&ims=120x",
+    "https://static.netshoes.com.br/produtos/mochila-impermeavel-reforcada-trabalho-viagem-escolar/06/8Z9-0046-006/8Z9-0046-006_zoom4.jpg?ts=1676048598&ims=120x",
+    "https://static.netshoes.com.br/produtos/mochila-impermeavel-reforcada-trabalho-viagem-escolar/06/8Z9-0046-006/8Z9-0046-006_zoom5.jpg?ts=1676048598&ims=120x",
+    "https://static.netshoes.com.br/produtos/mochila-impermeavel-reforcada-trabalho-viagem-escolar/06/8Z9-0046-006/8Z9-0046-006_zoom6.jpg?ts=1676048598&ims=120x"
+  ]
+}

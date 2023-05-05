@@ -8,7 +8,7 @@ async function fetchHtml(url) {
     const response = await axios.get(url);
     return response.data;
   } catch (error) {
-    console.error("Request Error: " + error);
+    console.error(error);
     return null;
   }
 }
@@ -31,7 +31,7 @@ function getInitialImage(htmlBody) {
 
 function getCarouselImages(htmlBody) {
   const images = [];
-  htmlBody(".swiper-wrapper li").each(function () {
+  htmlBody(".swiper-wrapper li").each(() => {
     images.push(htmlBody(this).find("img").attr("src"));
   });
   return images;

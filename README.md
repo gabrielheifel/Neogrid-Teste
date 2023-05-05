@@ -13,3 +13,4 @@ Descrição: Web scraper da loja Netshoes, desenvolvido para o teste da empresa 
 
 #Os dados serão informados no terminal e serão salvos no arquivo output.txt
 ```
+Print de como os dados são retornados no terminal: ![](./assets/exemplo_de_result.png)
